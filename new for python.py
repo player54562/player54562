@@ -58,7 +58,7 @@ while if key==password:
 
         engine.runAndWait()
 
-    if input=='2':
+    elif input=='2':
 
         
 
